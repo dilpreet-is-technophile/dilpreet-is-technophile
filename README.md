@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Dilpreet Singh</h1>
 <h3 align="center">Software Engineer @ PlaySimple Games</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/thumbor/0AnrHamN46EqpzPyunj8SMSjYD8=/0x0:480x270/1400x933/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif">
