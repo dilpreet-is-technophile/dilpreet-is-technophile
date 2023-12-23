@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer @ PlaySimple Games</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/thumbor/0AnrHamN46EqpzPyunj8SMSjYD8=/0x0:480x270/1400x933/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif">
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter + Flame**
 
 - 👯 I’m looking to collaborate on **making games with flutter**
 
